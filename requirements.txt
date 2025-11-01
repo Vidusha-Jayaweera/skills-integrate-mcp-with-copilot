@@ -1,2 +1,9 @@
 fastapi
 uvicorn
+
+# Database and ORM
+sqlmodel
+SQLAlchemy
+alembic
+# For Postgres support in production (optional, used when DATABASE_URL points to Postgres)
+psycopg2-binary
